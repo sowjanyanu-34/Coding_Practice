@@ -30,4 +30,34 @@ This repo includes:
 
 ---
 
-## 🗂 Repository Structure
+
+Each file contains:
+
+- Problem statement (comments)
+- Approach
+- Clean code
+- Time & Space complexity
+
+---
+
+## 🚀 Language Used
+
+- Python 🐍
+
+---
+
+## 🎯 Purpose
+
+- Practice coding daily  
+- Improve problem-solving skills  
+- Prepare for technical interviews  
+- Learn DSA patterns  
+
+---
+
+## 🛠 How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sowjanyanu-34/Coding_Practice.git
