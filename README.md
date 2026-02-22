@@ -1,36 +1,32 @@
-# 💻 Coding Practice Repository
+# 💻 Coding Practice
 
-Welcome to my Coding Practice repository! 🚀  
-This repo contains solutions to various programming problems and coding exercises that I solve daily to improve my problem-solving skills and strengthen my Data Structures & Algorithms knowledge.
+This repository contains my daily coding practice and problem-solving solutions to improve my programming and Data Structures & Algorithms (DSA) skills.
 
 ---
 
 ## 📖 About
 
-This repository is a collection of:
+This repo includes:
 
-✔️ Data Structures & Algorithms problems  
-✔️ LeetCode / HackerRank / Coding platform solutions  
-✔️ Pattern-based problem solving  
-✔️ Interview preparation questions  
-✔️ Daily coding challenges  
+- DSA practice problems  
+- Coding platform solutions (LeetCode, HackerRank, etc.)  
+- Interview preparation questions  
+- Daily coding challenges  
 
-The goal is to build strong logical thinking and coding efficiency.
+**Goal:** Improve logical thinking and write efficient code.
 
 ---
 
 ## 🧠 Topics Covered
 
-- Arrays & Strings
-- Two Pointers Technique
-- Recursion & Backtracking
-- Sorting & Searching
-- Linked Lists
-- Stacks & Queues
-- Trees & Graphs
-- Dynamic Programming
-- Sliding Window
-- Bit Manipulation
+- Arrays & Strings  
+- Two Pointers  
+- Recursion & Backtracking  
+- Sorting & Searching  
+- Linked Lists  
+- Stacks & Queues  
+- Trees & Graphs  
+- Dynamic Programming  
 
 ---
 
